@@ -13,7 +13,7 @@
 
 ## PROJECT OVERVIEW
 
-This data analysis project aims to help Danny analyse his sales performance after introducing a new sustainable methods of packaging. By analysing the various aspects of the dataset, we seek to understand the impact of the changes introduced in June of 2020, which platform, region, segment and customer types most affected and how best to minimise the impact on sales in the future.
+This data analysis project aims to help Danny analyse his sales performance after introducing a new sustainable methods of packaging. By analysing the various aspects of the dataset, I seek to understand the impact of the changes introduced in June of 2020, which platform, region, segment and customer types most affected and how best to minimise the impact on sales in the future.
 
 ### DATA SOURCE 
  Data Mart weekly_Sales: The dataset used was provided by Danny and it contains detailed information about each sale made by the company 
@@ -139,7 +139,7 @@ Order by pct_growth, sales_diff asc;
 ```
 
 ### RESULTS/FINDINGS
-The analysis results showed that:
+After i analysed this dataset, the analysis results showed that:
 
 1. There was a decline in both percentage and dollar value four weeks after the packaging was introduced and when extended to twelve weeks period the decline was pronounced. This shows the impact deepened over time 
 
