@@ -155,8 +155,8 @@ After i analysed this dataset, the analysis results showed that:
 3. The highest negative impact was concentrated in South America, particularly among Retirees and Families customer segments who are New customers. I recommend reviewing the South America supply chain for any shelf-life or freight issues linked to the new packaging, and creating targeted communication for Families and Retirees explaining the benefits of sustainable packaging, with a dedicated onboarding journey for New customers to improve retention.
 
 ### LIMITATIONS
-1. Too many unknown customers, this doesn't give us the full idea of our age_band and demographic. It'd be better to make age and demographic fields required during check-out
+1. Too many unknown customers, this doesn't give me the full idea of our age_band and demographic. It'd be better to make age and demographic fields required during check-out
 
-2. We only have sales and no profit, this means we only know sales went down but don't know if the sustainable package cost more. Profit could be down more than sales. Our data only shows one side of the money
+2. It only have sales and no profit, this means i only know sales went down but don't know if the sustainable package cost more. Profit could be down more than sales. The data only shows one side of the money
 
-3. Our data is weekly and not daily, we can't tell if customers visits less often or same time and bought less each time. We need to know if customers are visiting less or spending less per visit.
+3. The data is weekly and not daily, I can't tell if customers visits less often or same time and bought less each time. I need to know if customers are visiting less or spending less per visit.
